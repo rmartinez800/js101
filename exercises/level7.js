@@ -3,3 +3,9 @@
 // times as the input number
 //
 // Name the function "finalFunction"
+function finalFunction(arr) {
+  var arr = []
+  for(var i=10; i < arr.length, i++ ) {
+      return arr
+  } 
+}

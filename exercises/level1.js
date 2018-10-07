@@ -1,6 +1,6 @@
 function lvl1exercise1 () {
   // Declare a variable without instantiating it and return it!
-  var var1 
+  var var1
   return var1
 }
 
@@ -18,14 +18,14 @@ function lvl1exercise3 () {
 
 function lvl1exercise4 () {
   // Declare and instantiate a string "Hello World!" and return it
-  var var4 = 'Hellow World!'
+  var var4 = 'Hello World!'
   return var4
 }
 
 function lvl1exercise5 () {
   // Declare and instantiate an array containing the string "Hello World!" and the number 4 and return it
-  var var5 = ('Hello World!' + 4)
-  return var5
+  var arr1 = ['Hello World!', 4]
+  return arr1
 }
 
 function lvl1exercise6 () {
