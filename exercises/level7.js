@@ -3,7 +3,3 @@
 // times as the input number
 //
 // Name the function "finalFunction"
-function finalFunction(){
-    arr.push('hello')
-    return finalFunction 
-}
